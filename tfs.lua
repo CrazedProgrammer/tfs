@@ -1,5 +1,5 @@
 --[[
-tfs version 0.1.0
+tfs version 1.0.0
  
 The MIT License (MIT)
 Copyright (c) 2016 CrazedProgrammer
